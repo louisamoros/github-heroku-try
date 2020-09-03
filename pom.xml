@@ -15,7 +15,7 @@
     <description>Try of heroku and github capabilities</description>
 
     <properties>
-        <java.version>13</java.version>
+        <java.version>14</java.version>
     </properties>
 
     <dependencies>
